@@ -1,7 +1,3 @@
-# README.md
-
----
-
 # Disident České Sociálně-Fízlokratické republiky  
 _Výzkumná a implementační iniciativa pro informační suverenitu ve 21. století_
 
