@@ -2,8 +2,6 @@
 
 ---
 
-### 🇨🇿 Česká verze
-
 # Disident České Sociálně-Fízlokratické republiky  
 _Výzkumná a implementační iniciativa pro informační suverenitu ve 21. století_
 
@@ -37,8 +35,6 @@ Máte-li zájem o spolupráci, partnerství nebo další informace, prosím kont
 
 ---
 
-### 🇬🇧 English Version
-
 # Dissident Initiative of the Czech Socio-Phyzlocratic Republic  
 _A Research & Implementation Collective for 21st Century Information Sovereignty_
 
@@ -71,8 +67,6 @@ Our mission is to ensure that digital insights into authoritarian influence stru
 For collaborations, partnerships, or further information, please reach out via [issues](https://github.com/) or open a pull request with your contribution proposal.
 
 ---
-
-### 🇭🇺 Magyar verzió
 
 # A Cseh Szociál-Fízlokrata Köztársaság Diszidens Kezdeményezése  
 _Kutatási és megvalósítási kollektíva a 21. századi információs szuverenitásért_
