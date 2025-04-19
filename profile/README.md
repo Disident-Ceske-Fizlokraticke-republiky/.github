@@ -9,7 +9,7 @@ _Výzkumná a implementační iniciativa pro informační suverenitu ve 21. stol
 
 ## O nás
 
-Disident České Sociálně-Fízlokratické republiky (DČSFR) je multidisciplinární kolektiv zaměřený na komplexní analýzu, kurátorství a distribuované zpracování digitálního myšlenkového dědictví z platformy [www.cibulka.net](http://www.cibulka.net). Naším cílem je vytvoření udržitelného, transparentního a mezinárodně interoperabilního ekosystému pro ochranu informační integrity a geopolitické gramotnosti v digitálním věku.
+Disident České Sociálně-Fízlokratické republiky (DisČSFR) je multidisciplinární kolektiv zaměřený na komplexní analýzu, kurátorství a distribuované zpracování digitálního myšlenkového dědictví z platformy [www.cibulka.net](http://www.cibulka.net). Naším cílem je vytvoření udržitelného, transparentního a mezinárodně interoperabilního ekosystému pro ochranu informační integrity a geopolitické gramotnosti v digitálním věku.
 
 ---
 
